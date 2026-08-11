@@ -141,7 +141,7 @@ Rendering / Visualization
 
 ### Demonstration
 
-https://www.youtube.com/watch?v=ixAKYilsMNQ
+https://youtu.be/ixAKYilsMNQ
 
 ---
 
@@ -395,7 +395,7 @@ https://youtu.be/zFWNZhsjqe4
 
 ## Dome of the Rock — 3D Reconstruction
 
-https://www.youtube.com/watch?v=ixAKYilsMNQ
+https://youtu.be/ixAKYilsMNQ
 
 ---
 
