@@ -62,7 +62,7 @@ Web-Based Exploration
 
 ### Hafezieh VR Demonstration
 
-https://youtu.be/zFWNZhsjqe4
+https://youtu.be/XV3qXUyJIvU
 
 ---
 
@@ -391,7 +391,7 @@ This creates a continuous technical trajectory from computer graphics and digita
 
 ## Hafezieh — Virtual Reality
 
-https://youtu.be/zFWNZhsjqe4
+https://youtu.be/XV3qXUyJIvU
 
 ## Dome of the Rock — 3D Reconstruction
 
