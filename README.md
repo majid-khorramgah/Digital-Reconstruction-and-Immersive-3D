@@ -68,6 +68,8 @@ https://youtu.be/XV3qXUyJIvU
 
 # Hafezieh Gallery
 
+![Hafezieh](media/hafezieh/Hafezieh-23.jpg)
+
 ![Hafezieh](media/hafezieh/Hafezieh-06.jpg)
 
 ![Hafezieh](media/hafezieh/Hafezieh-07.jpg)
