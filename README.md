@@ -1,68 +1,363 @@
-# Digital Reconstruction & Immersive 3D
+# Hafezieh — Digital Reconstruction & Immersive 3D
 
-## 3D Modeling · Digital Reconstruction · Computer Graphics · Interactive Environments · Virtual Reality
+A real-time 3D digital reconstruction of **Hafezieh (Tomb of Hafez)** in Shiraz, Iran, developed as an interactive environment for digital heritage, architectural visualization, immersive exploration, and XR experiences.
 
-This repository presents selected projects from my earlier work in 3D modeling, digital reconstruction, computer graphics, interactive environments, real-time visualization, and immersive technologies.
+The project combines **3D architectural reconstruction, real-time rendering, interactive environments, digital humans, motion visualization, and immersive Virtual Reality** to create a digital representation of the historical Hafezieh complex.
 
-The repository documents two major architectural reconstruction projects:
-
-- Hafezieh — Shiraz, Iran
-- Dome of the Rock — Jerusalem
-
-These projects represent an important part of my earlier technical development, focused on constructing explicit digital representations of real-world environments and transforming them into visual, interactive, and immersive experiences.
-
-The Hafezieh project was developed as an interactive virtual environment and later extended to Virtual Reality and Meta Quest deployment.
-
-The Dome of the Rock project focused primarily on detailed architectural reconstruction and 3D modeling.
+The reconstructed environment was developed using professional 3D modeling workflows and integrated into the **Unity real-time engine**, with dedicated VR deployment for **Meta Quest** and preparation for web-based interactive exploration.
 
 ---
 
-# Project Overview
+## ✦ Project Vision
 
-## Hafezieh
+The project explores how modern real-time 3D and immersive technologies can be applied to the preservation, visualization, and exploration of cultural heritage.
 
-Hafezieh is a detailed 3D reconstruction of the Hafezieh complex in Shiraz, Iran.
+The long-term research direction extends the reconstructed environment toward:
 
-The architectural environment was reconstructed as a detailed 3D scene using professional 3D modeling workflows and subsequently integrated into the Unity game engine.
+* **Digital Heritage**
+* **Real-Time 3D**
+* **Extended Reality (XR)**
+* **Virtual Reality (VR)**
+* **Digital Humans**
+* **Human Motion & Skeleton Tracking**
+* **Computer Vision**
+* **3D Scene Understanding**
+* **Object Perception**
+* **Depth & Spatial Perception**
+* **AI-assisted Planning**
+* **Interactive Virtual Environments**
 
-The project was developed as an interactive virtual environment allowing users to explore the reconstructed architectural site.
+---
 
-A dedicated Virtual Reality version was subsequently developed and deployed for Meta Quest.
+## ✦ 3D Environment
 
-The project was also prepared for web-based interactive exploration.
+The Hafezieh complex was reconstructed as a detailed, navigable 3D environment.
 
-### Development Pipeline
+The digital scene represents the architectural and spatial characteristics of the historical site, including:
 
-Architectural Reference
-↓
+* Architectural structures
+* Columns and decorative elements
+* Courtyards and platforms
+* Stairs and pathways
+* Stone surfaces
+* Gardens and vegetation
+* Water features
+* Environmental objects
+* Outdoor lighting elements
+
+The goal is to preserve the visual and spatial identity of the site while transforming it into an interactive real-time environment.
+
+---
+
+## ✦ Real-Time Interactive Environment
+
+The reconstructed environment was integrated into **Unity** to transform the architectural model into an interactive real-time experience.
+
+The Unity environment provides:
+
+* First-person exploration
+* Real-time 3D visualization
+* Interactive navigation
+* Environmental presentation
+* Digital human interaction
+* Motion visualization
+* XR/VR support
+
+This approach allows the reconstructed site to be experienced as a virtual environment rather than as a static architectural model.
+
+---
+
+## ✦ Digital Human & Motion
+
+A digital human is integrated into the reconstructed environment to explore human interaction and movement within the architectural space.
+
+The research visualization includes concepts such as:
+
+```text
+Digital Human
+      │
+      ├── Skeleton
+      │
+      ├── Human Motion
+      │
+      ├── Motion History
+      │
+      └── Motion Planning
+```
+
+The visual representation can be extended toward real-time skeleton visualization, pose analysis, motion history, and AI-assisted navigation.
+
+---
+
+## ✦ AI & Research Vision
+
+The project is designed with a future-facing AI research layer that connects the reconstructed 3D world with perception and intelligent interaction.
+
+### 3D World
+
+```text
+3D Environment
+      │
+      ├── Objects
+      ├── Geometry
+      ├── Depth
+      └── Spatial Information
+```
+
+### AI Perception
+
+```text
+Camera
+  ↓
+Perception
+  ↓
+Object Detection
+  ↓
+Scene Understanding
+  ↓
+Semantic Representation
+```
+
+### Digital Human
+
+```text
+Human
+  ↓
+Skeleton
+  ↓
+Pose
+  ↓
+Motion
+  ↓
+Action
+```
+
+### AI Planning
+
+```text
+Scene Understanding
+        ↓
+      Planning
+        ↓
+    Path / Motion
+        ↓
+      Action
+```
+
+These components form the foundation for future integration of computer vision and AI-based interaction within the reconstructed cultural environment.
+
+---
+
+## ✦ Research Visualization
+
+The project visualization presents an interface inspired by modern AI and robotics research systems.
+
+The interface can represent:
+
+* **3D World**
+* **Digital Human**
+* **Motion / Skeleton**
+* **AI & Intelligence**
+* **Object Perception**
+* **Scene Understanding**
+* **Depth Perception**
+* **Motion Planning**
+
+A conceptual pipeline is:
+
+```text
+                  RESEARCH VISION
+                         │
+       ┌─────────────────┼─────────────────┐
+       │                 │                 │
+   3D WORLD        DIGITAL HUMAN     AI PERCEPTION
+       │                 │                 │
+   Geometry          Skeleton        Detection
+   Objects           Motion          Depth
+   Environment       Pose            Segmentation
+       │                 │                 │
+       └─────────────────┼─────────────────┘
+                         │
+                    AI PLANNING
+                         │
+                    Path / Motion
+```
+
+---
+
+## ✦ Virtual Reality
+
+A dedicated VR version of the Hafezieh environment was developed for **Meta Quest**.
+
+The VR experience enables users to explore the reconstructed historical environment from an immersive first-person perspective.
+
+The project demonstrates how architectural reconstruction can be extended from traditional visualization into an immersive cultural heritage experience.
+
+---
+
+## ✦ Web-Based Exploration
+
+The project was also prepared for **web-based interactive exploration**, providing an additional platform for presenting the reconstructed environment beyond desktop and VR applications.
+
+This creates the possibility of making digital heritage experiences more accessible through browser-based 3D interaction.
+
+---
+
+## ✦ Development Pipeline
+
+```text
+Architectural References
+          ↓
 3D Geometric Reconstruction
-↓
+          ↓
 Detailed Architectural Modeling
-↓
-Materials & Scene Construction
-↓
+          ↓
+Materials & Texturing
+          ↓
+Scene Construction
+          ↓
+Lighting & Environment
+          ↓
 Unity Integration
-↓
-Interactive Environment
-↓
+          ↓
+Interactive 3D Environment
+          ↓
 Virtual Reality
-↓
+          ↓
 Meta Quest Deployment
-↓
+          ↓
 Web-Based Exploration
+```
 
-### Technologies
+---
 
-- Autodesk Maya
-- Unity
-- Adobe Photoshop
-- Virtual Reality
-- Meta Quest
-- Web-based interactive deployment
+## ✦ Technology Stack
 
-### Hafezieh VR Demonstration
+### 3D & Digital Content
 
-https://youtu.be/XV3qXUyJIvU
+* **Autodesk Maya**
+* **Adobe Photoshop**
+* 3D Architectural Modeling
+* Digital Environment Reconstruction
+* Materials & Texturing
+
+### Real-Time Development
+
+* **Unity**
+* Real-Time 3D
+* Interactive Environment Development
+* Real-Time Visualization
+
+### XR / Immersive Technology
+
+* **Virtual Reality**
+* **Meta Quest**
+* Immersive 3D Interaction
+* XR-ready Environment
+
+### AI / Research Direction
+
+* Computer Vision
+* 3D Perception
+* Object Detection
+* Depth Estimation
+* Semantic Scene Understanding
+* Human Pose & Skeleton
+* Motion Analysis
+* AI-assisted Planning
+
+> AI and computer-vision components represent the research direction and visualization architecture of the project; individual AI models can be integrated as separate modules as the system evolves.
+
+---
+
+## ✦ System Architecture
+
+```text
+                         HAFEZIEH
+                            │
+                 ┌──────────┴──────────┐
+                 │                     │
+          3D Environment        Digital Human
+                 │                     │
+          ┌──────┼──────┐        ┌─────┼─────┐
+          │      │      │        │     │     │
+       Objects Geometry Depth   Pose Skeleton Motion
+          │      │      │        │     │     │
+          └──────┴──────┴────────┴─────┴─────┘
+                            │
+                     AI / Perception
+                            │
+              ┌─────────────┼─────────────┐
+              │             │             │
+          Detection      Scene         Planning
+                         Understanding
+              │             │             │
+              └─────────────┼─────────────┘
+                            │
+                     Real-Time Unity
+                            │
+                  ┌─────────┴─────────┐
+                  │                   │
+                 VR                 Web
+              Meta Quest        Interactive 3D
+```
+
+---
+
+## ✦ Digital Heritage
+
+Hafezieh is more than a conventional 3D environment.
+
+It represents an approach to **digital cultural heritage**, where historical architecture can be reconstructed and experienced through modern interactive technologies.
+
+The project investigates the intersection of:
+
+**Cultural Heritage × 3D Reconstruction × Real-Time Rendering × XR × AI**
+
+---
+
+## ✦ Project Goals
+
+* Digitally reconstruct a historical cultural site
+* Create an interactive real-time 3D environment
+* Enable immersive VR exploration
+* Develop a foundation for digital heritage applications
+* Visualize digital human movement inside architectural environments
+* Explore AI-based scene perception
+* Investigate spatial understanding and motion planning
+* Provide a foundation for future AI/XR research
+
+---
+
+## ✦ VR Demonstration
+
+A demonstration of the Hafezieh VR experience is available below:
+
+[**▶ Watch Hafezieh VR Demonstration**](https://youtu.be/XV3qXUyJIvU)
+
+---
+
+## ✦ Future Development
+
+The next stage of the project can extend the environment toward:
+
+* Real-time object detection
+* Semantic segmentation
+* Depth-aware scene understanding
+* Human pose estimation
+* Real-time skeleton tracking
+* AI-based navigation
+* Intelligent path planning
+* Digital human interaction
+* Multimodal AI perception
+* XR interaction
+* Browser-based immersive experiences
+
+---
+
+## ✦ Keywords
+
+`Hafezieh` `Shiraz` `Digital Heritage` `3D Reconstruction` `Unity` `Maya` `Real-Time 3D` `Virtual Reality` `Meta Quest` `XR` `Digital Human` `Computer Vision` `3D Perception` `Scene Understanding` `Object Detection` `Skeleton Tracking` `Motion Analysis` `AI Planning` `Spatial Computing`
 
 ---
 
